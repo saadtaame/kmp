@@ -1,5 +1,5 @@
 # kmp
-A C++ implementation of the Knuth-Morris-Pratt algorithm for sequences of integers. The program reads two integers m, the length of the pattern, and n, the length of the sequence to search in. The program then reads the pattern and the sequence and prints positions (0 based) where the pattern occurs as a sub-sequence of the original sequence.
+A C++ implementation of the Knuth-Morris-Pratt algorithm for sequences of integers. The program reads two integers m, the length of the pattern, and n, the length of the sequence to search in. The program then reads the pattern and the sequence and prints positions (0 based) where the pattern occurs as a contiguous sub-sequence of the original sequence.
 
 Sample input/output:
 
